@@ -1,4 +1,4 @@
-#Mac vs Windows - Laptop buying behavior - Unsupervised Learning - Python
+# Mac vs Windows - Laptop buying behavior - Unsupervised Learning - Python
 -------------------------------------------------------------------------
 *Contains Principal Component Analysis and Clustering*
 
